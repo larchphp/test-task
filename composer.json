@@ -1,0 +1,11 @@
+{
+    "name": "artur/book-catalog",
+    "description": "Book catalog application on Yii 1.1",
+    "require": {
+        "php": ">=8.0",
+        "yiisoft/yii": "~1.1.32"
+    },
+    "config": {
+        "vendor-dir": "protected/vendor"
+    }
+}

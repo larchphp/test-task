@@ -1,0 +1,9 @@
+protected/vendor/
+protected/runtime/
+assets/
+uploads/*
+!uploads/.gitkeep
+composer.phar
+composer.lock
+*.DS_Store
+.idea/
